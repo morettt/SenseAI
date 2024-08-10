@@ -17,3 +17,5 @@ SenseAI 是一个集成了 ASR（自动语音识别）、LLM（大型语言模�
 ```bash
 conda create -n senseai python=3.10 -y
 conda activate senseai
+
+### 1. 构建虚拟环境
