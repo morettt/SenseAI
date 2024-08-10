@@ -19,4 +19,12 @@ conda create -n senseai python=3.10 -y
 conda activate senseai
 ```
 
-### 1. 构建虚拟环境
+### 2. 安装依赖
+
+```bash
+pip install -r requirements.txt
+```
+## 功能说明
+截至 8 月 10 日，目前仅上传了“文字打断”的功能演示。未来几天内，我们将逐步上传并集成 ASR、TTS、LLM 等完整功能。
+
+您可以前往 demo 文件夹，使用已提供的文字打断功能进行体验。
