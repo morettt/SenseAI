@@ -18,7 +18,7 @@
 
 ![image](https://github.com/user-attachments/assets/0247306c-e440-45b3-ade1-29791836866e)
 
-自此，即可在本地电脑运行此指令：
+自此，即可在本地电脑运行此代码：
 
 ```bash
 python GLM4-API.py
