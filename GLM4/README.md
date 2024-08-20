@@ -8,7 +8,7 @@
 
 ![image](https://github.com/user-attachments/assets/2b73d381-e69c-4de5-8c3b-d3fabb0c79ab)
 
-第二步，打开页面，启动API：
+第二步，打开页面，复制指令：
 
 ![image](https://github.com/user-attachments/assets/cb128676-dda6-478f-9c1c-472bb918f783)
 
