@@ -16,3 +16,5 @@ conda activate senseai
 ```bash
 pip install -r requirements.txt
 ```
+
+不写了，麻烦死了
